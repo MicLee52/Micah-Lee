@@ -1,4 +1,4 @@
-#Micah lee 03/1/18
+#Micah lee 03/12/18
 
 media_type = input("what is the media type? ")
 title = input("what is the title ")
